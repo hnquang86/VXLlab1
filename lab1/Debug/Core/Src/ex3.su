@@ -1,0 +1,8 @@
+../Core/Src/ex3.c:14:6:straight_green	8	static
+../Core/Src/ex3.c:20:6:straight_yellow	8	static
+../Core/Src/ex3.c:26:6:straight_red	8	static
+../Core/Src/ex3.c:32:6:horizontal_green	8	static
+../Core/Src/ex3.c:38:6:horizontal_yellow	8	static
+../Core/Src/ex3.c:44:6:horizontal_red	8	static
+../Core/Src/ex3.c:50:6:init_ex3	4	static
+../Core/Src/ex3.c:53:6:run_ex3	8	static
