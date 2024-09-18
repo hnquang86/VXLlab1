@@ -1,0 +1,4 @@
+../Core/Src/ex1.c:12:6:init_ex1	4	static
+../Core/Src/ex1.c:15:6:led_on	8	static
+../Core/Src/ex1.c:19:6:led_off	8	static
+../Core/Src/ex1.c:23:6:run_ex1	8	static
