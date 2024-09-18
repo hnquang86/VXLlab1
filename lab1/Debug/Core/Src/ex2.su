@@ -1,0 +1,5 @@
+../Core/Src/ex2.c:13:6:init_ex2	4	static
+../Core/Src/ex2.c:15:6:led_red_on	8	static
+../Core/Src/ex2.c:22:6:led_yellow_on	8	static
+../Core/Src/ex2.c:29:6:led_GREEN_on	8	static
+../Core/Src/ex2.c:35:6:run_ex2	8	static
