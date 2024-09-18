@@ -1,0 +1,5 @@
+../Core/Src/ex5.c:27:6:setDigit_1	16	static
+../Core/Src/ex5.c:37:6:setDigit_2	16	static
+../Core/Src/ex5.c:47:6:setLED	24	static
+../Core/Src/ex5.c:53:6:init_ex5	4	static
+../Core/Src/ex5.c:58:6:run_ex5	24	static
