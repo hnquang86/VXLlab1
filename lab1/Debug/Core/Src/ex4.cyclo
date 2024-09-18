@@ -1,0 +1,12 @@
+../Core/Src/ex4.c:11:6:zero	1
+../Core/Src/ex4.c:21:6:one	1
+../Core/Src/ex4.c:31:6:two	1
+../Core/Src/ex4.c:41:6:three	1
+../Core/Src/ex4.c:51:6:four	1
+../Core/Src/ex4.c:61:6:five	1
+../Core/Src/ex4.c:71:6:six	1
+../Core/Src/ex4.c:81:6:seven	1
+../Core/Src/ex4.c:91:6:eight	1
+../Core/Src/ex4.c:101:6:nine	1
+../Core/Src/ex4.c:110:6:init_ex4	1
+../Core/Src/ex4.c:112:6:run_ex4	11
