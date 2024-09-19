@@ -1,0 +1,7 @@
+../Core/Src/ex6.c:9:6:init_ex6	1
+../Core/Src/ex6.c:12:6:setNumberOnClock	13
+../Core/Src/ex6.c:55:6:clearNumberOnClock	13
+../Core/Src/ex6.c:97:6:run_ex6	1
+../Core/Src/ex6.c:111:6:clearAllClock	1
+../Core/Src/ex6.c:125:6:run_ex7	1
+../Core/Src/ex6.c:129:6:run_ex10	4
